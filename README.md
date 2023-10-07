@@ -1,1 +1,2 @@
-# Data-Types-and-Variables Lecture from Sotuni  
+# Softuni-js-fundamentals
+# Data-Types-and-Variables  
